@@ -7,12 +7,17 @@ A aplicação permite realizar operações de CRUD para o cadastro e listagem de
 Tecnologias Utilizadas
 
 Java
+
 Spring Boot
+
 MySQL
 
 Funcionalidades Principais
 
 Cadastro de filmes com informações detalhadas.
+
 Listagem de filmes cadastrados.
+
 Edição e exclusão de filmes.
+
 Integração com banco de dados MySQL.
